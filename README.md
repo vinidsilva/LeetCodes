@@ -1,6 +1,6 @@
 # [LeetCode] Solutions & Algorithm Practice
 
-> *"All the time you're saying to yourself, 'I could do that, but I won't,'Â which is just another way of saying that you can't."*  
+> *"All the time you're saying to yourself, 'I could do that, but I won't', which is just another way of saying that you can't."*  
 > **Richard Feynman**
 
 ---
