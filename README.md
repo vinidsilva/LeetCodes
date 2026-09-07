@@ -64,11 +64,11 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## Knuth-Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## Boyer-Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
