@@ -1,7 +1,7 @@
 # [LeetCode] Solutions & Algorithm Practice
 
-> *"All the time you're saying to yourself, 'I could do that, but I won't,' ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ which is just another way of saying that you can't."*  
-> ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ **Richard Feynman**
+> *"All the time you're saying to yourself, 'I could do that, but I won't,' ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ which is just another way of saying that you can't."*  
+> ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ **Richard Feynman**
 
 ---
 
@@ -23,6 +23,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | [0009-palindrome-number](https://github.com/Vin1sz/LeetCodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vin1sz/LeetCodes/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,11 +61,11 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -76,4 +77,12 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vin1sz/LeetCodes/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
