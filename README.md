@@ -1,6 +1,6 @@
 # [LeetCode] Solutions & Algorithm Practice
 
-> *"All the time you're saying to yourself, 'I could do that, but I won't,' which is just another way of saying that you can't."*  
+> *"All the time you're saying to yourself, 'I could do that, but I won't,'Â which is just another way of saying that you can't."*  
 > **Richard Feynman**
 
 ---
@@ -24,6 +24,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vin1sz/LeetCodes/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Vin1sz/LeetCodes/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,11 +62,11 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -81,6 +82,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Vin1sz/LeetCodes/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
