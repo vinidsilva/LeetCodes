@@ -17,6 +17,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vin1sz/LeetCodes/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Vin1sz/LeetCodes/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vin1sz/LeetCodes/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Vin1sz/LeetCodes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -62,11 +64,11 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vin1sz/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
