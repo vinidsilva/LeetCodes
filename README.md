@@ -26,6 +26,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | [0043-multiply-strings](https://github.com/Vin1sz/LeetCodes/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Vin1sz/LeetCodes/tree/master/0367-valid-perfect-square) |
+| [4245-count-commas-in-range](https://github.com/Vin1sz/LeetCodes/tree/master/4245-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
