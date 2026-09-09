@@ -18,12 +18,14 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | ------- |
 | [0001-two-sum](https://github.com/Vin1sz/LeetCodes/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vin1sz/LeetCodes/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Vin1sz/LeetCodes/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vin1sz/LeetCodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vin1sz/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Vin1sz/LeetCodes/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Vin1sz/LeetCodes/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vin1sz/LeetCodes/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Vin1sz/LeetCodes/tree/master/0367-valid-perfect-square) |
 | [4245-count-commas-in-range](https://github.com/Vin1sz/LeetCodes/tree/master/4245-count-commas-in-range) |
