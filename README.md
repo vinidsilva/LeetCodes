@@ -20,6 +20,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | [0027-remove-element](https://github.com/Vin1sz/LeetCodes/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Vin1sz/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vin1sz/LeetCodes/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -100,11 +101,13 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vin1sz/LeetCodes/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vin1sz/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -119,6 +122,7 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vin1sz/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -126,4 +130,8 @@ This repository contains my solutions and optimizations for **LeetCode** problem
 | ------- |
 | [0100-same-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vin1sz/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
